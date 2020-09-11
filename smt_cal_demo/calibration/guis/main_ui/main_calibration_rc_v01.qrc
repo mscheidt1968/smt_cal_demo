@@ -1,0 +1,6 @@
+<RCC>
+  <qresource prefix="rc">
+    <file>resources/applogo.png</file>
+    <file>resources/mtlogo.png</file>
+  </qresource>
+</RCC>
